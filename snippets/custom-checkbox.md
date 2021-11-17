@@ -30,7 +30,7 @@ Creates a styled checkbox with animation on state change.
   <label class="checkbox" for="apples">
     <span>
       <svg width="12px" height="10px">
-        <use xlink:href="#check"></use>
+        <use href="#check"></use>
       </svg>
     </span>
     <span>Apples</span>
@@ -39,7 +39,7 @@ Creates a styled checkbox with animation on state change.
   <label class="checkbox" for="oranges">
     <span>
       <svg width="12px" height="10px">
-        <use xlink:href="#check"></use>
+        <use href="#check"></use>
       </svg>
     </span>
     <span>Oranges</span>
